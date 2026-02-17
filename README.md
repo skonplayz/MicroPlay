@@ -8,7 +8,6 @@ No crashes. No lost progress. Your work is always safe with automatic project au
 
 ![Version](https://img.shields.io/github/v/release/skonplayz/MicroPlay)
 ![Downloads](https://img.shields.io/github/downloads/skonplayz/MicroPlay/total)
-![License](https://img.shields.io/github/license/skonplayz/MicroPlay)
 
 ---
 
